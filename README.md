@@ -1,2 +1,2 @@
-# webwise-plugin
-A Simple plugin for Website's Assistant.
+# webwise
+A Simple extension for Website's Assistant.
