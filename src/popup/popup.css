@@ -1,7 +1,7 @@
 .chat-container {
-    max-width: 350px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
+    max-width: 500px;
+    height: auto;
+    border: none;
     overflow: hidden;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     font-family: Arial, sans-serif;
